@@ -1,0 +1,8 @@
+gradio
+ultralytics
+opencv-python
+matplotlib
+pillow
+numpy
+pandas
+pathlib
