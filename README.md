@@ -1,15 +1,3 @@
----
-title: Object Detection Game
-emoji: 🎮
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: 4.44.0
-app_file: main.py
-pinned: false
-license: mit
----
-
 # 🎮 Object Detection Game
 
 Advanced real-time object detection game using YOLOv8 and Gradio with comprehensive analytics.
